@@ -10,9 +10,11 @@
 // let num = prompt("Please enter a decimal value")
 // console.log(math.floor(num))
 
-//STEP 4
-let nums = prompt("Please enter 5 numeric values, delimit each number with a comma.")
-console.log(Math.max(nums))
-//console.log('The highest value is: ' & Math.max(nums) & '<br> The smallest value is: ' & Math.min(nums))
+// //STEP 4
+// let nums = prompt("Please enter 5 numeric values, delimit each number with a comma.")
+// // console.log(Math.max(nums))
+// console.log('The highest value is: ' & Math.max(nums) & '<br> The smallest value is: ' & Math.min(nums))
 
 //STEP 5
+let num = prompt("Please enter numeric value (one):")
+console.log('The square root is: ' & Math.sqrt(num))
